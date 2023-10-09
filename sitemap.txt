@@ -7,9 +7,9 @@ http://example.com/link/index.html
 http://example.com/categories/index.html
 http://example.com/about/index.html
 http://example.com/
-http://example.com/tags/Maven/
 http://example.com/tags/git/
 http://example.com/tags/github/
 http://example.com/tags/gitlab/
 http://example.com/tags/gitee/
+http://example.com/tags/Maven/
 http://example.com/tags/RocketMQ/
