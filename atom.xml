@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rocket Skunkの博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-10-09T01:56:37.099Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Rocket Skunk</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello-Word</title>
+    <link href="http://example.com/2023/10/08/hello-word/"/>
+    <id>http://example.com/2023/10/08/hello-word/</id>
+    <published>2023-10-08T10:02:36.000Z</published>
+    <updated>2023-10-09T01:56:37.099Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="a"><a href="#a" class="headerlink" title="a"></a>a</h1><p>b<br>d<br>adf</p><p>asdf<br>a<br>g<br>ag<br>a<br>gd<br>asd<br>ga<br>sg</p><p>q<br>a</p><p>s<br>d<br>f</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;a&quot;&gt;&lt;a href=&quot;#a&quot; class=&quot;headerlink&quot; title=&quot;a&quot;&gt;&lt;/a&gt;a&lt;/h1&gt;&lt;p&gt;b&lt;br&gt;d&lt;br&gt;adf&lt;/p&gt;
+&lt;p&gt;asdf&lt;br&gt;a&lt;br&gt;g&lt;br&gt;ag&lt;br&gt;a&lt;br&gt;gd&lt;br&gt;asd&lt;br&gt;ga&lt;br&gt;sg&lt;/p</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
