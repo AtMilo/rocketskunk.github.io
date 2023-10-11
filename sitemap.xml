@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rocketskunk.github.io/google2878d917c6de35da.html</loc>
-    
-    <lastmod>2023-10-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://rocketskunk.github.io/posts/1a45d9e/</loc>
     
     <lastmod>2023-10-09</lastmod>
@@ -92,6 +83,13 @@
 
   
   <url>
+    <loc>https://rocketskunk.github.io/tags/Maven/</loc>
+    <lastmod>2023-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://rocketskunk.github.io/tags/git/</loc>
     <lastmod>2023-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,13 +112,6 @@
   
   <url>
     <loc>https://rocketskunk.github.io/tags/gitee/</loc>
-    <lastmod>2023-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://rocketskunk.github.io/tags/Maven/</loc>
     <lastmod>2023-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
