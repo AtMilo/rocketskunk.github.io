@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rocketskunk.github.io/posts/fc9efa74/</loc>
+    <loc>https://blog.atmilo.com/posts/fc9efa74/</loc>
     
     <lastmod>2023-10-18</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/posts/6daa736a/</loc>
+    <loc>https://blog.atmilo.com/posts/6daa736a/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/posts/3ad9057a/</loc>
+    <loc>https://blog.atmilo.com/posts/3ad9057a/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/posts/935e0c73/</loc>
+    <loc>https://blog.atmilo.com/posts/935e0c73/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/posts/1a45d9e/</loc>
+    <loc>https://blog.atmilo.com/posts/1a45d9e/</loc>
     
     <lastmod>2023-10-09</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/index.html</loc>
+    <loc>https://blog.atmilo.com/tags/index.html</loc>
     
     <lastmod>2023-10-09</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/link/index.html</loc>
+    <loc>https://blog.atmilo.com/link/index.html</loc>
     
     <lastmod>2023-10-09</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/categories/index.html</loc>
+    <loc>https://blog.atmilo.com/categories/index.html</loc>
     
     <lastmod>2023-10-09</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/about/index.html</loc>
+    <loc>https://blog.atmilo.com/about/index.html</loc>
     
     <lastmod>2023-10-09</lastmod>
     
@@ -84,58 +84,58 @@
   
 
   <url>
-    <loc>https://rocketskunk.github.io/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/Git/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/tags/Git/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/Github/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/tags/Github/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/Gitlab/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/tags/Gitlab/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/Gitee/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/tags/Gitee/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/Windows/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/tags/Windows/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/RocketMQ/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/tags/RocketMQ/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://rocketskunk.github.io/tags/Maven/</loc>
-    <lastmod>2023-11-22</lastmod>
+    <loc>https://blog.atmilo.com/tags/Maven/</loc>
+    <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
